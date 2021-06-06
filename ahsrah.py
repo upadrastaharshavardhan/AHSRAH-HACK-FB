@@ -267,7 +267,7 @@ def choices():
 		os.remove('out')
 	elif pick =="9":
 		os.system('rm -rf login.txt')
-		os.system('xdg-open https://www.facebook.com/learntermux1linux1/')
+		os.system('xdg-open https://www.facebook.com/Harsha Upadrasta/')
 		exit()
 	elif pick =="0":
 		exit()
