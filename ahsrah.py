@@ -28,7 +28,7 @@ def exit():
 	os.system('clear')
 	print "\033[1;91m[©] Join my facebook page..."
 	os.system('sleep 3 && clear')
-	os.system('xdg-open https://www.facebook.com/HarshaUpadrasta/')
+	os.system('xdg-open https://github.com/upadrastaharshavardhan/AHSRAH-HACK-FB)
 	os.sys.exit()
         tool_main_function()
 
