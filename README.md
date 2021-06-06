@@ -65,7 +65,7 @@ $ apt install git
 
 $ apt install python2
 
-$ git clone https://github.com/upadrastaharshavardhan/AHSRAH-HACK-FB
+$ git clone https://github.com/upadrastaharshavardhan/AHSRAH-HACK-FB.git
 
 $ cd AHSRAH-HACK-FB
 
